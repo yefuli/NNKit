@@ -62,9 +62,9 @@
 		873B8AEA1B1F5CCA007FD442 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = Main.storyboard; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		8C85CB66C5D75BFAB9453FA0 /* Pods_NNKit_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_NNKit_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		943B59BB58726DE127F3ADBB /* Pods-NNKit_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-NNKit_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-NNKit_Tests/Pods-NNKit_Tests.debug.xcconfig"; sourceTree = "<group>"; };
-		9E8804476CFCF51ABF736541 /* NNKit.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = NNKit.podspec; path = ../NNKit.podspec; sourceTree = "<group>"; };
-		A203EFA96C2D309CE48E0F28 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
-		A8AB1B68185DBB3521F0308D /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		9E8804476CFCF51ABF736541 /* NNKit.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = NNKit.podspec; path = ../NNKit.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		A203EFA96C2D309CE48E0F28 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		A8AB1B68185DBB3521F0308D /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		BB9C19FC658FC7CA59F1CF69 /* Pods_NNKit_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_NNKit_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		E6ABAF0B132D313469E2047D /* Pods-NNKit_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-NNKit_Example.debug.xcconfig"; path = "Pods/Target Support Files/Pods-NNKit_Example/Pods-NNKit_Example.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */

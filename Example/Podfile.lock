@@ -1,0 +1,16 @@
+PODS:
+  - NNKit (0.1.0)
+
+DEPENDENCIES:
+  - NNKit (from `../`)
+
+EXTERNAL SOURCES:
+  NNKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  NNKit: b00366b9b54cfb36c30bb34edaefd2930d56f7b0
+
+PODFILE CHECKSUM: 0a72a1cd2a8994af7524945e80ea9737fcb7fc8b
+
+COCOAPODS: 1.5.3
