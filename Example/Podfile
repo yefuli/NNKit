@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'NNKit_Example' do
+  pod 'NNKit', :path => '../'
+
+  target 'NNKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
